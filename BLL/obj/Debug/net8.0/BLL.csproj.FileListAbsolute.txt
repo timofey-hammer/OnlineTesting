@@ -1,0 +1,15 @@
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/bin/Debug/net8.0/BLL.deps.json
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/bin/Debug/net8.0/BLL.dll
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/bin/Debug/net8.0/BLL.pdb
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/bin/Debug/net8.0/Common.dll
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/bin/Debug/net8.0/Common.pdb
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/obj/Debug/net8.0/BLL.csproj.AssemblyReference.cache
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/obj/Debug/net8.0/BLL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/obj/Debug/net8.0/BLL.AssemblyInfoInputs.cache
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/obj/Debug/net8.0/BLL.AssemblyInfo.cs
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/obj/Debug/net8.0/BLL.csproj.CoreCompileInputs.cache
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/obj/Debug/net8.0/BLL.csproj.Up2Date
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/obj/Debug/net8.0/BLL.dll
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/obj/Debug/net8.0/refint/BLL.dll
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/obj/Debug/net8.0/BLL.pdb
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/obj/Debug/net8.0/ref/BLL.dll

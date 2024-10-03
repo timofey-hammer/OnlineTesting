@@ -1,0 +1,19 @@
+services:
+  db:
+    image: postgres:latest
+    restart: always
+    environment:
+      POSTGRES_DB: OnlineTesting
+      POSTGRES_USER: OnlineTestingUser
+      POSTGRES_PASSWORD: OnlineTestingPassword
+    ports:
+      - "5432:5432"
+
+  web:
+    build:
+      context: .
+      dockerfile: API/Dockerfile
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db

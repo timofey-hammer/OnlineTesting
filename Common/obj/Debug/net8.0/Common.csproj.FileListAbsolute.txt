@@ -1,0 +1,12 @@
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/bin/Debug/net8.0/Common.deps.json
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/bin/Debug/net8.0/Common.dll
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/bin/Debug/net8.0/Common.pdb
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/obj/Debug/net8.0/Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/obj/Debug/net8.0/Common.AssemblyInfoInputs.cache
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/obj/Debug/net8.0/Common.AssemblyInfo.cs
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/obj/Debug/net8.0/Common.csproj.CoreCompileInputs.cache
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/obj/Debug/net8.0/Common.dll
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/obj/Debug/net8.0/refint/Common.dll
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/obj/Debug/net8.0/Common.pdb
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/obj/Debug/net8.0/ref/Common.dll
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/obj/Debug/net8.0/Common.csproj.AssemblyReference.cache

@@ -1,0 +1,287 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Infrastructure/Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/BLL.csproj",
+        "packagesPath": "/Users/timofey_hammer/.nuget/packages/",
+        "outputPath": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/timofey_hammer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/Common.csproj": {
+                "projectPath": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/Common.csproj",
+        "projectName": "Common",
+        "projectPath": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/Common.csproj",
+        "packagesPath": "/Users/timofey_hammer/.nuget/packages/",
+        "outputPath": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/timofey_hammer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/DAL.csproj",
+        "packagesPath": "/Users/timofey_hammer/.nuget/packages/",
+        "outputPath": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/timofey_hammer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/Common.csproj": {
+                "projectPath": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/timofey_hammer/.nuget/packages/",
+        "outputPath": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/timofey_hammer/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/BLL.csproj": {
+                "projectPath": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/BLL/BLL.csproj"
+              },
+              "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/Common.csproj": {
+                "projectPath": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/Common/Common.csproj"
+              },
+              "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/DAL.csproj": {
+                "projectPath": "/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

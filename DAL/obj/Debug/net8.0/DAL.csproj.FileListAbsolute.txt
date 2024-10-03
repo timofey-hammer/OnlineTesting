@@ -1,0 +1,15 @@
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/bin/Debug/net8.0/DAL.deps.json
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/bin/Debug/net8.0/DAL.dll
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/bin/Debug/net8.0/DAL.pdb
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/bin/Debug/net8.0/Common.dll
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/bin/Debug/net8.0/Common.pdb
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/obj/Debug/net8.0/DAL.csproj.AssemblyReference.cache
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/obj/Debug/net8.0/DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/obj/Debug/net8.0/DAL.AssemblyInfoInputs.cache
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/obj/Debug/net8.0/DAL.AssemblyInfo.cs
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/obj/Debug/net8.0/DAL.csproj.CoreCompileInputs.cache
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/obj/Debug/net8.0/DAL.csproj.Up2Date
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/obj/Debug/net8.0/DAL.dll
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/obj/Debug/net8.0/refint/DAL.dll
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/obj/Debug/net8.0/DAL.pdb
+/Users/timofey_hammer/Library/Mobile Documents/com~apple~CloudDocs/Работа/Проекты/OnlineTesting/DAL/obj/Debug/net8.0/ref/DAL.dll
